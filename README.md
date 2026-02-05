@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A data scientist from India</h3>
 
-- 🌱 I’m currently learning **Docker & Azure**
+- 🌱 I’m currently learning **Docker, Kubernetes, Azure, and many more!**
 
 - ⚡ Fun fact **all over now**
 
